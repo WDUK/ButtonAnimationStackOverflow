@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4682CDC6-C2AB-43E8-BB0D-D3A86DE300DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ButtonAnim</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81E9FCF1-AD1A-45F9-9C58-D7C17E95B629</key>
+		<string>https://github.com/WDUK/ButtonAnimationStackOverflow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ButtonAnim.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81E9FCF1-AD1A-45F9-9C58-D7C17E95B629</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WDUK/ButtonAnimationStackOverflow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81E9FCF1-AD1A-45F9-9C58-D7C17E95B629</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81E9FCF1-AD1A-45F9-9C58-D7C17E95B629</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ButtonAnimationStackOverflow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
